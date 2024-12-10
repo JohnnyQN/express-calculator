@@ -1,0 +1,12 @@
+{
+  "operation": "all",
+  "input": [
+    1,
+    2,
+    3
+  ],
+  "mean": 2,
+  "median": 2,
+  "mode": 1,
+  "timestamp": "2024-12-10T08:36:15.191Z"
+}
